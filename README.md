@@ -21,5 +21,5 @@ This software is free and carries a MIT license.
 
 Changelog
 ---------
-1.0.0 (2016-03-02)
+v1.0.0 (2016-03-02)
 * First release.
